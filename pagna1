@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coração Literário - Indicações de Livros</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <div class="logo-icon">
+                    <div class="diamond-shape"></div>
+                </div>
+                <div class="logo-text">LARA AMANDA</div>
+            </div>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="index.html" class="active">Início</a></li>
+                    <li><a href="pagna2.html">Notícias</a></li>
+                    <li><a href="pagna3.html">História</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <div class="title-container">
+                <h1>
+                    <span class="title-line">Coração</span>
+                    <span class="title-line">Literário</span>
+                </h1>
+            </div>
+
+            <div class="subtitle">
+                <p>Indicações de livros.</p>
+            </div>
+
+            <div class="divider"></div>
+        </main>
+
+        <section class="book-content">
+            <div class="intro-text">
+                <h2>Sua próxima leitura favorita está aqui.</h2>
+                <img src="https://i.pinimg.com/736x/54/b9/a7/54b9a7bb2a506cbdab95cf074539a8b0.jpg" alt="Imagem" class="imagem">
+                 
+                <p>Descubra o mundo dos livros de romance e se perca nas páginas de histórias que tocam o coração e capturam a alma.</p>
+                <p>Encontre as melhores indicações de livros de romance e se apaixone por histórias incríveis a preços acessíveis.</p>
+            </div>
+
+            <div class="book-recommendations">
+                <div class="book-item">
+                    <h3>Quebrando o Gelo</h3>
+                    <p>Uma patinadora artística ultracompetitiva tem de dividir o rinque com o capitão «quebra-corações» da equipa de hóquei? O gelo não vai quebrar entre estes dois, vai derreter! Anastasia treina todos os dias com a ambição de garantir um lugar na equipa de patinagem artística no gelo dos Estados Unidos.</p>
+                    <div class="book-age">
+                        <h4>Avaliações e Indicativa de idade:</h4>
+                        <p>O livro "Quebrando o Gelo", de Hannah Grace, é geralmente recomendado para leitores com 18 anos ou mais. Isso se deve ao conteúdo com cenas explícitas e temas mais maduros, incluindo relações sexuais e insinuações.</p>
+                    </div>
+                </div>
+
+                <div class="book-item">
+                    <h3>É Assim que Acaba</h3>
+                    <p>O livro "É Assim que Acaba", de Colleen Hoover, conta a história de Lily, uma jovem que se muda para Boston para começar uma nova vida e encontra Ryle, um neurocirurgião atraente, mas que tem uma aversão a relacionamentos. A história explora a complexidade das relações tóxicas e como o amor e o abuso podem coexistir em uma confusão de sentimentos.</p>
+                    <div class="book-age">
+                        <h4>Avaliações e Indicativa de idade:</h4>
+                        <p>O livro "Assim que Acaba" foi escrito por Colleen Hoover e foi publicado em 2016. Quanto às avaliações, ele costuma receber opiniões variadas, mas geralmente é bem recebido por leitores fãs de romances emocionais e histórias intensas. No Goodreads, por exemplo, possui uma média de avaliação ao redor de 4,2 de 5 estrelas, indicando uma boa receptividade entre os leitores.</p>
+                    </div>
+                </div>
+
+                <div class="book-item">
+                    <h3>Melhor do que nos Filmes</h3>
+                    <p>O livro "Melhor do que nos Filmes", de Lynn Painter, explora de forma mais aprofundada a história de Liz e Wes, focando em seus relacionamentos, conflitos e crescimento pessoal. A adaptação para o cinema, por outro lado, tende a simplificar a trama e a focar em momentos mais visuais e dramáticos, deixando de fora alguns detalhes importantes da narrativa.</p>
+                    <div class="book-age">
+                        <h4>Avaliações e Indicativa de idade:</h4>
+                        <p>O livro "Melhor do que nos filmes" geralmente é recomendado para leitores com 12 anos ou mais, com algumas lojas sugerindo 14 anos ou mais. O livro é uma comédia romântica para jovens, com um conteúdo geral tranquilo, mas pode conter alguns palavrões e insinuações de atos sexuais.</p>
+                    </div>
+                </div>
+
+                <div class="book-item">
+                    <h3>Para Todos os Garotos Que já amei</h3>
+                    <p>Lara Jean Song Covey escreve cartas de amor secretas para todos os seus antigos paqueras. Um dia, as cartas são misteriosamente enviadas para os destinatários, virando sua vida de cabeça para baixo.</p>
+                    <p>(esse livro é uma coleção)</p>
+                    <div class="book-age">
+                        <h4>Avaliações e Indicativa de idade:</h4>
+                        <p>Para Todos os Garotos que Já Amei" é uma leitura encantadora e leve, ideal para quem gosta de romances adolescentes com toques de humor e fofura. A história acompanha Lara Jean, uma garota que escreve cartas de amor para seus crushes, mas que nunca pretendia que essas cartas fossem enviadas. Quando elas acabam sendo enviadas sem seu consentimento, ela precisa lidar com as consequências de suas emoções e relacionamentos. A narrativa é envolvente, com personagens carismáticos e situações divertidas, além de abordar temas como amor, amizade e crescimento pessoal.
+                        Indicativo de idade:
+                        Recomendado para leitores a partir de 14 anos, devido ao conteúdo leve e temas de relacionamento adolescente. É uma leitura adequada para jovens e adultos que apreciam histórias românticas e de crescimento pessoal.</p>
+                    </div>
+                </div>
+
+                <div class="book-item">
+                    <h3>A Seleção</h3>
+                    <p>A Seleção é uma série de livros distópicos de ficção científica juvenil da escritora americana Kiera Cass. A sinopse do primeiro livro, "A Seleção", gira em torno de America Singer, uma jovem de 16 anos que, contra sua vontade, é escolhida para participar da "Seleção".</p>
+                    <div class="book-age"> 
+                        <h4>Avaliações e Indicativa de idade:</h4>
+                        <p>O livro "A Seleção", escrito por Kiera Cass, costuma ser avaliado positivamente por leitores jovens e adultos que gostam de romances distópicos e histórias de escolhas e reviravoltas. Quanto ao indicativo de idade, a faixa recomendada geralmente é a partir de 14 anos, devido ao conteúdo que inclui temas como romance, conflitos políticos e algumas cenas que podem ser consideradas apropriadas para adolescentes mais velhos.</p>
+                    </div>
+                </div>
+
+                <div class="book-item">
+                    <h3>A Hipótese do Amor</h3>
+                    <p>"A Hipótese do Amor", da Ali Hazelwood, conta a história de Olive, uma estudante de doutoramento em biologia, que não acredita em relacionamentos sérios. Para proteger sua carreira, ela finge namorar Adam, seu professor, um cientista rigoroso. A situação se complica quando a atração entre eles se torna real, desafiando as teorias de Olive sobre o amor.</p>
+                    <div class="book-age">
+                        <h4>Avaliações e Indicativa de idade:</h4>
+                        <p>MAIS UM QUERIDINHO DA REDE DA DANCINHA 
+
+                        "Estou começando a me perguntar se isso é o que é estar apaixonado. Se rasgar em pedaços, para que a outra pessoa possa ficar inteira."
+
+                        Que a Ali Hazelwood é famosa pelas book redes, não podemos negar, mas será que o livro vale todo o hype? 
+
+                        Em A Hipótese do amor, vamos conhecer Olive, uma aluna do doutorado de biologia e precisa urgentemente arrumar um namorado fake, já que ela descobriu que sua amiga está afim do carinha que ela estava ficando.
+                        (14 anos)</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <p>&copy; 2025 Coração Literário</p>
+        </footer>
+    </div>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</body>
+</html>

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coração Literário - Notícias</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <div class="logo-icon">
+                    <div class="diamond-shape"></div>
+                </div>
+                <div class="logo-text">LARA AMANDA</div>
+            </div>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="index.html">Início</a></li>
+                    <li><a href="pagna2.html" class="active">Notícias</a></li>
+                    <li><a href="pagna3.html">História</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <div class="title-container">
+                <h1>
+                    <span class="title-line">Notícias e</span>
+                    <span class="title-line">Novidades</span>
+                </h1>
+            </div>
+
+            <div class="subtitle">
+                <p>Fique por dentro do mundo literário.</p>
+            </div>
+
+            <div class="divider"></div>
+        </main>
+
+        <section class="noticias-novidades">
+            <div class="titulo-container titulo-oval">
+                <h2>Notícias e Novidades:</h2>
+            </div>
+            
+            <div class="noticias-content">
+                <div class="noticia-item">
+                    <h3>Lançamentos e Melhores Vendidos</h3>
+                    <ul>
+                        <li>"O Lado Feio do Amor" de Colleen Hoover: É um dos livros de romance mais vendidos e populares.</li>
+                        <li>"A Biblioteca da Meia-Noite" de Matt Haig: Um romance que explora escolhas e a chance de recomeçar.</li>
+                        <li>"Perfeita Indecisão", "Inconveniente Doutor", "Insano: Casada à Força com o Mafioso": São alguns dos títulos de romance mais populares, com histórias que misturam drama, romance e suspense.</li>
+                    </ul>
+                </div>
+                
+                <div class="noticia-item">
+                    <h3>Tendências e Adaptações</h3>
+                    <ul>
+                        <li>Dark Romance: Uma tendência que explora romances com temas mais sombrios e complexos.</li>
+                        <li>Adaptações para Série/Filme: A Netflix e outras plataformas estão buscando adaptar romances clássicos e contemporâneos para séries e filmes.</li>
+                    </ul>
+                </div>
+                
+                <div class="noticia-item">
+                    <h3>Outras Notícias</h3>
+                    <ul>
+                        <li>Lançamentos de Nicholas Sparks e Jojo Moyes: Autores renomados no gênero romance estão preparando novos livros.</li>
+                        <li>Retrospectiva 2024: Revisão dos principais filmes de romance lançados no ano passado.</li>
+                        <li>Notícias sobre relacionamentos e vida amorosa de celebridades: Algumas notícias sobre romance também abordam a vida amorosa de celebridades.</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <p>&copy; 2025 Coração Literário</p>
+        </footer>
+    </div>
+</body>
+</html>
+
